@@ -1,0 +1,10 @@
+Top Skills by Frequency
+========================
+python: 6
+sql: 5
+excel: 3
+ml: 3
+statistics: 1
+powerbi: 1
+spark: 1
+deeplearning: 1
